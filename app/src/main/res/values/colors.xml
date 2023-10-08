@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    //Dark themes
+    <color name="display_dark">#17181A</color>
+    <color name="button_color_dark_1">#1991FF</color>
+    <color name="button_color_dark_2">#616161</color>
+    <color name="button_color_dark_3">#303136</color>
+    <color name="text_color_dark">#29A8FF</color>
+
+    // light
+    <color name="display_light">#F7F8FB</color>
+    <color name="display_text_light">#424242</color>
+    <color name="button_text_light_1">#38B9FF</color>
+    <color name="button_text_light_2">#109DFF</color>
+    <color name="button_text_light_3">#858585</color>
+    <color name="button_color_light_1">#19ACFF</color>
+    <color name="button_color_light_2">#ADE2FF</color>
+
+</resources>

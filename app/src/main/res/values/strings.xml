@@ -1,0 +1,35 @@
+<resources>
+    //Symbols
+    <string name="app_name">Calculator_APP</string>
+    <string name="last_answer">ANS</string>
+    <string name="modulus_btn">%</string>
+    <string name="clear_screen_btn">C</string>
+    <string name="backspace_btn"></string>
+    <string name="division_btn">÷</string>
+    <string name="square_root_btn">√x</string>
+    <string name="squared_sign">x²</string>
+    <string name="inverse_sign">x⁻¹</string>
+    <string name="multiplication_sign">×</string>
+    <string name="subtraction_sign">-</string>
+    <string name="addition_sign">+</string>
+    <string name="equal_sign">=</string>
+    <string name="decimal_btn">.</string>
+
+    //numbers
+    <string name="num_nine">9</string>
+    <string name="num_eight">8</string>
+    <string name="num_seven">7</string>
+    <string name="num_four">4</string>
+    <string name="num_five">5</string>
+    <string name="num_six">6</string>
+    <string name="num_three">3</string>
+    <string name="num_two">2</string>
+    <string name="num_one">1</string>
+    <string name="num_zero">0</string>
+
+    //Error messages
+    <string name="error_message">Error Invalid Input</string>
+
+
+
+</resources>
